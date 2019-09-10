@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(#f26522,#faa624);
+    color: white;
+    padding: 20px;
+}
+.bigcenter{
+    text-align: center;
+    padding: 20px;
+}
+.person{
+    margin: 20px;
+    padding: 0px;
+
+}
+.headshot{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0 0;
+    margin: 5px;
+}
+.askcenter{
+    text-align: center;
+    padding-top:30px;
+    padding-bottom: 0px;
+}
