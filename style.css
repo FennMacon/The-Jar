@@ -1,3 +1,6 @@
+html{
+    overflow: none;
+}
 body{
     background-image: linear-gradient(#f26522,#faa624);
     color: white;
